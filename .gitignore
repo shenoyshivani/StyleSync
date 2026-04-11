@@ -1,0 +1,11 @@
+# Ignore large dataset
+images/
+
+# Ignore environment & cache
+.venv/
+__pycache__/
+.vscode/
+*.pyc
+
+# Optional (ignore temp uploads if large)
+# uploads/
